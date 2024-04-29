@@ -31,3 +31,5 @@ Once data is loaded in Redshift, write analytical queries to answer business que
 - Top 10 records with the number of transactions ordered by the ATM_number, ATM_manufacturer, location, weekend_flag and then total_transaction_count, on weekdays and on weekends throughout the year
 
 - Most active day in each ATMs from location "Vejgaard"
+
+![image](images/diagram.png)
