@@ -32,4 +32,10 @@ Once data is loaded in Redshift, write analytical queries to answer business que
 
 - Most active day in each ATMs from location "Vejgaard"
 
+Diagram of architecture:
+
 ![image](images/diagram.png)
+
+Dimensional Model:
+
+![image](images/Dimension-Model.jpg)
